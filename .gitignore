@@ -20,3 +20,4 @@ data/processed/*.duckdb.wal
 
 # Streamlit
 .streamlit/secrets.toml
+.vercel

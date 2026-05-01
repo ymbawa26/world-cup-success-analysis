@@ -1,4 +1,13 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "version": 2,
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "charts/**", "use": "@vercel/static" },
+    { "src": "portfolio_summary.md", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/charts/(.*)", "dest": "/charts/$1" },
+    { "src": "/portfolio_summary.md", "dest": "/portfolio_summary.md" }
+  ]
 }
