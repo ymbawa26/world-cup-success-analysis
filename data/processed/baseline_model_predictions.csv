@@ -1,0 +1,129 @@
+year,team_name,semifinalist,stage_reached,predicted_semifinalist,semifinal_probability
+2010,Brazil,0,Quarter-finals,1,0.8757403149720091
+2010,Italy,0,Group stage,1,0.7998168373507951
+2010,Germany,1,Semi-finals/top four,1,0.7875360767339149
+2010,France,0,Group stage,1,0.7486856696073524
+2010,England,0,Round of 16 / second group,1,0.7029702627622697
+2010,Netherlands,1,Final,1,0.658651526492495
+2010,Portugal,0,Round of 16 / second group,1,0.6225553323370876
+2010,Spain,1,Champion,1,0.6087459345066186
+2010,South Africa,0,Group stage,1,0.5504312999797836
+2010,Argentina,0,Quarter-finals,1,0.54898238591802
+2010,Serbia,0,Group stage,0,0.4888662665129228
+2010,Denmark,0,Group stage,0,0.47639930707733236
+2010,Switzerland,0,Group stage,0,0.41149822311330875
+2010,Uruguay,1,Semi-finals/top four,0,0.39762412142392567
+2010,Slovenia,0,Group stage,0,0.3845569949586158
+2010,Slovakia,0,Round of 16 / second group,0,0.2548509270369807
+2010,North Korea,0,Group stage,0,0.24192948435511855
+2010,Greece,0,Group stage,0,0.18079121037095616
+2010,Chile,0,Round of 16 / second group,0,0.17075543564208093
+2010,Paraguay,0,Quarter-finals,0,0.10165184240554663
+2010,South Korea,0,Round of 16 / second group,0,0.09499804051683212
+2010,Japan,0,Round of 16 / second group,0,0.08650855969551108
+2010,Cameroon,0,Group stage,0,0.0442287602499569
+2010,Nigeria,0,Group stage,0,0.03675544559678251
+2010,Australia,0,Group stage,0,0.03630663020539194
+2010,Ivory Coast,0,Group stage,0,0.035338333440221845
+2010,Ghana,0,Quarter-finals,0,0.03301681816483257
+2010,Mexico,0,Round of 16 / second group,0,0.028242947956469363
+2010,United States,0,Round of 16 / second group,0,0.023653428891681896
+2010,New Zealand,0,Group stage,0,0.021402180668900442
+2010,Honduras,0,Group stage,0,0.01816698705337445
+2010,Algeria,0,Group stage,0,0.009268378307456408
+2014,Brazil,1,Semi-finals/top four,1,0.9983693746399172
+2014,France,0,Quarter-finals,1,0.9203364658620273
+2014,Germany,1,Champion,1,0.8301254351691716
+2014,Italy,0,Group stage,1,0.7867762390221372
+2014,Spain,0,Group stage,1,0.7801801192543381
+2014,Netherlands,1,Semi-finals/top four,1,0.7441985720064496
+2014,Argentina,1,Final,1,0.7339235249212064
+2014,England,0,Group stage,1,0.6978037326056428
+2014,Portugal,0,Group stage,1,0.6020511298319899
+2014,Uruguay,0,Round of 16 / second group,1,0.5453383650947048
+2014,Chile,0,Round of 16 / second group,0,0.44694430905150984
+2014,Belgium,0,Quarter-finals,0,0.3966793346201196
+2014,Croatia,0,Group stage,0,0.3870595024453481
+2014,Russia,0,Group stage,0,0.2906464276937737
+2014,Switzerland,0,Round of 16 / second group,0,0.23582485474083267
+2014,Bosnia & Herzegovina,0,Group stage,0,0.16630138085306295
+2014,Ecuador,0,Group stage,0,0.16554693313865498
+2014,Greece,0,Round of 16 / second group,0,0.16038612190588294
+2014,Colombia,0,Quarter-finals,0,0.12566965149894688
+2014,Ghana,0,Group stage,0,0.07692326492153795
+2014,South Korea,0,Group stage,0,0.06402669676096073
+2014,Iran,0,Group stage,0,0.04714857276233616
+2014,Japan,0,Group stage,0,0.04581593608919903
+2014,Nigeria,0,Round of 16 / second group,0,0.04273187567724426
+2014,United States,0,Round of 16 / second group,0,0.03011998774616825
+2014,Cameroon,0,Group stage,0,0.028307865388689738
+2014,Australia,0,Group stage,0,0.02731075560662988
+2014,Ivory Coast,0,Group stage,0,0.027033267436791006
+2014,Costa Rica,0,Quarter-finals,0,0.02642022839448304
+2014,Mexico,0,Round of 16 / second group,0,0.020880584684579224
+2014,Algeria,0,Round of 16 / second group,0,0.014841043309623155
+2014,Honduras,0,Group stage,0,0.008607486367305312
+2018,Spain,0,Round of 16 / second group,1,0.9242705621483472
+2018,Brazil,0,Quarter-finals,1,0.918913831729474
+2018,Russia,0,Quarter-finals,1,0.909273307023008
+2018,Germany,0,Group stage,1,0.8788534673236501
+2018,France,1,Champion,1,0.7407870078624381
+2018,Belgium,1,Semi-finals/top four,1,0.717598531849428
+2018,Iceland,0,Group stage,1,0.6972530056412919
+2018,Sweden,0,Quarter-finals,1,0.678327960410042
+2018,Argentina,0,Round of 16 / second group,1,0.6171128802675278
+2018,Poland,0,Group stage,1,0.6147842082173046
+2018,Portugal,0,Round of 16 / second group,1,0.5699657536336823
+2018,Denmark,0,Round of 16 / second group,1,0.5485269714654183
+2018,England,1,Semi-finals/top four,1,0.5398816269148826
+2018,Switzerland,0,Round of 16 / second group,0,0.4664857138681993
+2018,Uruguay,0,Quarter-finals,0,0.4211601443250402
+2018,Croatia,1,Final,0,0.4080630933996239
+2018,Colombia,0,Round of 16 / second group,0,0.3129975599645808
+2018,Serbia,0,Group stage,0,0.3001900840157482
+2018,Peru,0,Group stage,0,0.19640181625210493
+2018,South Korea,0,Group stage,0,0.06689225887562882
+2018,Senegal,0,Group stage,0,0.06509860984840117
+2018,Australia,0,Group stage,0,0.05325606162935106
+2018,Morocco,0,Group stage,0,0.04534998923585678
+2018,Japan,0,Round of 16 / second group,0,0.039542053088395146
+2018,Iran,0,Group stage,0,0.03541108657867922
+2018,Saudi Arabia,0,Group stage,0,0.035062880155277906
+2018,Egypt,0,Group stage,0,0.030000554948411216
+2018,Nigeria,0,Group stage,0,0.02865917840780977
+2018,Costa Rica,0,Group stage,0,0.025755263154952433
+2018,Panama,0,Group stage,0,0.024680912483482666
+2018,Tunisia,0,Group stage,0,0.020178901505105935
+2018,Mexico,0,Round of 16 / second group,0,0.012743758096178984
+2022,Brazil,0,Quarter-finals,1,0.9755439621358611
+2022,Germany,0,Group stage,1,0.8654592977145821
+2022,Argentina,1,Champion,1,0.8594871781312422
+2022,Qatar,0,Group stage,1,0.8390840234548688
+2022,France,1,Final,1,0.8289570950643285
+2022,Portugal,0,Quarter-finals,1,0.7304843270910107
+2022,Spain,0,Round of 16 / second group,1,0.7228537774610281
+2022,Netherlands,0,Quarter-finals,1,0.6228981334104391
+2022,England,0,Quarter-finals,1,0.5900988038299533
+2022,Uruguay,0,Group stage,1,0.5633657117049974
+2022,Belgium,0,Group stage,1,0.5305187194480336
+2022,Croatia,1,Semi-finals/top four,0,0.4169358228980076
+2022,Wales,0,Group stage,0,0.38989641213540516
+2022,Denmark,0,Group stage,0,0.35674205816245386
+2022,Poland,0,Round of 16 / second group,0,0.2939551911283018
+2022,Serbia,0,Group stage,0,0.2628132186718197
+2022,Switzerland,0,Round of 16 / second group,0,0.18506538773491724
+2022,Ecuador,0,Group stage,0,0.18029533312321616
+2022,Japan,0,Round of 16 / second group,0,0.09806646619042868
+2022,South Korea,0,Round of 16 / second group,0,0.07908742521479863
+2022,Saudi Arabia,0,Group stage,0,0.05665763356271693
+2022,Senegal,0,Round of 16 / second group,0,0.05413132136445966
+2022,United States,0,Round of 16 / second group,0,0.048761295652944174
+2022,Australia,0,Round of 16 / second group,0,0.047949961474259825
+2022,Ghana,0,Group stage,0,0.041690240842704125
+2022,Cameroon,0,Group stage,0,0.030820699021372737
+2022,Morocco,1,Semi-finals/top four,0,0.030597717663216572
+2022,Canada,0,Group stage,0,0.027094591406658642
+2022,Iran,0,Group stage,0,0.020963458477062633
+2022,Costa Rica,0,Group stage,0,0.018563957137256424
+2022,Tunisia,0,Group stage,0,0.01821441631279495
+2022,Mexico,0,Group stage,0,0.01758408552771337

@@ -1,0 +1,2 @@
+target,train_years,test_years,accuracy
+semifinalist,1966-2006,2010-2022,0.71875
