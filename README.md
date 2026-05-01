@@ -4,6 +4,11 @@
 
 This project investigates which measurable factors are most associated with deep FIFA Men's World Cup runs. It is not built to pretend that football can be predicted perfectly. The goal is more practical: use public data, SQL, Python, and clear visual evidence to understand the patterns behind teams that reach the knockout rounds, semifinals, finals, and title.
 
+## Links
+
+- Live portfolio report: https://world-cup-success-analysis.vercel.app
+- GitHub repository: https://github.com/ymbawa26/world-cup-success-analysis
+
 ## Research Question
 
 Which factors are most associated with World Cup success: goal difference, defensive strength, attacking output, host advantage, tournament experience, confederation/region, knockout-stage efficiency, or pre-tournament form?
